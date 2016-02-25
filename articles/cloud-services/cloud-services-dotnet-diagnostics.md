@@ -463,7 +463,7 @@ provider=”prov2” &lt;DefaultEvents eventDestination=”dest2” /&gt;|WADdes
 The following table compare the features supported by Azure Diagnostics versions 1.0 and 1.1/1.2/1.3:
 
 Role Types Supported|Diagnostics 1.0|Diagnostics 1.1/1.2/1.3
----|---
+---|---|---
 Web role|Yes|Yes
 Worker role|Yes|Yes
 IaaS|No|Yes
